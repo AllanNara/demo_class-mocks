@@ -1,0 +1,9 @@
+services:
+  db:
+    container_name: mongo_container
+    image: mongo:7.0
+    ports:
+      - 27017:27017
+    restart: always
+    volumes:
+      - ./mongo:/data/db
