@@ -25,8 +25,12 @@ npm run dev
 5. Correr semillas
 ```
 http://localhost:8080/api/seed
-```  
+```
+6. Importar archivo json de colecciónes a Postman para probar API
 
 
+Exitos!  
+
+----------------------------------------
 Contacto:
 https://www.linkedin.com/in/allannara/
